@@ -1,0 +1,3 @@
+@echo off
+REM Windows 便捷包装：cdc run --db ... --url ...
+python "%~dp0cdc.py" %*
